@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    background-color: #092b30;
+    background-image: url('/src/assets/morty.jpg');
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button {
+    display: block;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+input {
+    outline: none;
+}
